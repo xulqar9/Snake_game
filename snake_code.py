@@ -9,7 +9,6 @@ class SnakeGame:
         self.window = curses.newwin(self.screen_height, self.screen_width, 0, 0)
         self.window.keypad(1)
         self.window.timeout(100)
-
         self.snake_x = self.screen_width // 4
         self.snake_y = self.screen_height // 2
         self.snake = [
