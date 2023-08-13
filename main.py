@@ -88,7 +88,6 @@ class SnakeGame:
             self.window.addstr(0, 2, 'Score : ' + str(len(self.snake)-3))
 
 
-
 if __name__ == "__main__":
     game = SnakeGame()
     game.play()
