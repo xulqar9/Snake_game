@@ -24,3 +24,9 @@ Navigate to the cloned repository's directory and run the game using Python:
 
 ```bash
 python snake_game.py
+```
+
+## Controls
+- **Arrow Keys: Move the snake in the respective direction.
+- **Spacebar: Pause and resume the game.
+- **X Key: Exit the game.
