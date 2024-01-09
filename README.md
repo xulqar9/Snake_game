@@ -27,6 +27,6 @@ python snake_game.py
 ```
 
 ## Controls
-- **Arrow Keys: Move the snake in the respective direction.
-- **Spacebar: Pause and resume the game.
-- **X Key: Exit the game.
+- **Arrow Keys:** Move the snake in the respective direction.
+- **Spacebar:** Pause and resume the game.
+- **X Key:** Exit the game.
